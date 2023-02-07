@@ -1,0 +1,14 @@
+C:\REPOS\TrueCoders\csharp\SelectionANDswitch\bin\Debug\netcoreapp3.1\SelectionANDswitch.exe
+C:\REPOS\TrueCoders\csharp\SelectionANDswitch\bin\Debug\netcoreapp3.1\SelectionANDswitch.deps.json
+C:\REPOS\TrueCoders\csharp\SelectionANDswitch\bin\Debug\netcoreapp3.1\SelectionANDswitch.runtimeconfig.json
+C:\REPOS\TrueCoders\csharp\SelectionANDswitch\bin\Debug\netcoreapp3.1\SelectionANDswitch.runtimeconfig.dev.json
+C:\REPOS\TrueCoders\csharp\SelectionANDswitch\bin\Debug\netcoreapp3.1\SelectionANDswitch.dll
+C:\REPOS\TrueCoders\csharp\SelectionANDswitch\bin\Debug\netcoreapp3.1\SelectionANDswitch.pdb
+C:\REPOS\TrueCoders\csharp\SelectionANDswitch\obj\Debug\netcoreapp3.1\SelectionANDswitch.csproj.AssemblyReference.cache
+C:\REPOS\TrueCoders\csharp\SelectionANDswitch\obj\Debug\netcoreapp3.1\SelectionANDswitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOS\TrueCoders\csharp\SelectionANDswitch\obj\Debug\netcoreapp3.1\SelectionANDswitch.AssemblyInfoInputs.cache
+C:\REPOS\TrueCoders\csharp\SelectionANDswitch\obj\Debug\netcoreapp3.1\SelectionANDswitch.AssemblyInfo.cs
+C:\REPOS\TrueCoders\csharp\SelectionANDswitch\obj\Debug\netcoreapp3.1\SelectionANDswitch.csproj.CoreCompileInputs.cache
+C:\REPOS\TrueCoders\csharp\SelectionANDswitch\obj\Debug\netcoreapp3.1\SelectionANDswitch.dll
+C:\REPOS\TrueCoders\csharp\SelectionANDswitch\obj\Debug\netcoreapp3.1\SelectionANDswitch.pdb
+C:\REPOS\TrueCoders\csharp\SelectionANDswitch\obj\Debug\netcoreapp3.1\SelectionANDswitch.genruntimeconfig.cache
